@@ -111,12 +111,6 @@ I specialize in building end-to-end data science solutions that transform comple
 
 ---
 
-## 📈 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a1pasha&layout=compact&theme=radical)
-
----
-
 ## 🎯 What I Do
 
 - 🔍 **Data Analysis:** Transform raw data into meaningful insights
