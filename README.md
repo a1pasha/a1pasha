@@ -6,7 +6,6 @@ I specialize in building end-to-end data science solutions that transform comple
 
 📍 **Location:** Bremen, Germany  
 📧 **Email:** asharpasha6@gmail.com  
-📱 **Phone:** +49 176 87986492  
 🔗 **GitHub:** [@a1pasha](https://github.com/a1pasha)
 
 ---
