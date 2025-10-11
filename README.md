@@ -1,6 +1,6 @@
 # Hi there, I'm Ashar Pasha 👋
 
-## Data Scientist & ML Engineer | Python Developer | Business Intelligence Specialist
+## Data Scientist | ML Enthusiast | Python Developer | Business Intelligence Specialist 
 
 I specialize in building end-to-end data science solutions that transform complex data into actionable business insights. From predictive analytics to interactive dashboards, I develop systems that drive data driven decision making.
 
