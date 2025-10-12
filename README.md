@@ -73,6 +73,20 @@ I specialize in building end-to-end data science solutions that transform comple
 
 ---
 
+
+### 📋 [Job Application Tracker](https://github.com/a1pasha/job-application-tracker)
+**Offline job application management system with smart file organization**
+
+- 📁 Auto-organizes applications into `Company - Position/` folders
+- 📄 Saves job descriptions as PDFs before they disappear
+- 💾 Excel-based database with drag-and-drop file uploads
+- ⚡ One-click launch, 100% offline & private
+- 🛠️ **Tech Stack:** Node.js, Express, React, PDFKit, Excel (XLSX)
+
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/a1pasha/job-application-tracker)
+
+---
+
 ## 💻 Technical Skills
 
 ### Programming Languages
