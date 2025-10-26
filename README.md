@@ -1,8 +1,8 @@
 # Hi there, I'm Ashar Pasha 👋
 
-## Data Scientist | ML Enthusiast | Python Developer | Business Intelligence Specialist | Full-Stack Solutions
+## Electrical Engineer | Data Scientist | ML Enthusiast | Business Intelligence Specialist | Developer
 
-I specialize in building end-to-end data science solutions that transform complex data into actionable business insights. From predictive analytics to interactive dashboards, I develop systems that drive data driven decision making.
+I'm an electrical engineer who also has expertise in data science. I build end-to-end solutions that turn complex data into clear insights, whether it's analyzing heating systems, forecasting sales, or detecting fraud. My engineering background gives me a unique approach to problem solving combining technical rigor with practical business impact.
 
 📍 **Location:** Bremen, Germany  
 📧 **Email:** asharpasha6@gmail.com  
@@ -125,23 +125,18 @@ I specialize in building end-to-end data science solutions that transform comple
 
 ---
 
-## 🎯 What I Do
+🎯 What I Bring to the Table
+With an electrical engineering background and hands-on data science experience, I bridge the gap between technical systems and business needs. I don't just build models—I create solutions that people actually use.
 
-- 🔍 **Data Analysis:** Transform raw data into meaningful insights
-- 🤖 **Machine Learning:** Build predictive models for business forecasting
-- 📊 **Business Intelligence:** Create interactive dashboards for decision-makers
-- ⚙️ **Automation:** Develop automated analytics pipelines
-- 🏗️ **Full-Stack Solutions:** End-to-end application development
+Engineering Mindset: Systematic problem-solving with attention to system reliability
+Data-Driven Insights: Transform 500K+ record datasets into actionable intelligence
+End-to-End Solutions: From data pipeline to frontend, I handle the full stack
+Real Business Impact: Projects that improve decision-making and operational efficiency
 
----
 
-## 📫 Let's Connect!
+📫 Let's Connect
+I'm always interested in projects that combine engineering principles with data science, especially in energy systems, infrastructure, or industrial applications.
+📧 Email: asharpasha6@gmail.com
+💼 GitHub: @a1pasha
 
-I'm always open to interesting projects and collaboration opportunities. Feel free to reach out!
-
-- 📧 Email: [asharpasha6@gmail.com](mailto:asharpasha6@gmail.com)
-- 💼 GitHub: [@a1pasha](https://github.com/a1pasha)
-
----
-
-⭐️ From [a1pasha](https://github.com/a1pasha)
+⭐️ From a1pasha
