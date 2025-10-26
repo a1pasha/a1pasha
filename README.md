@@ -114,8 +114,14 @@ A capacitive sensor I developed at IMSAS that identifies liquids by their dielec
 ### Engineering & Design Tools
 ![COMSOL](https://img.shields.io/badge/COMSOL_Multiphysics-0093D0?style=for-the-badge)
 ![Autodesk Inventor](https://img.shields.io/badge/Autodesk_Inventor-FF6C00?style=for-the-badge&logo=autodesk&logoColor=white)
+![LabVIEW](https://img.shields.io/badge/LabVIEW-FFDB00?style=for-the-badge&logo=labview&logoColor=black)
+![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+
+### Embedded Systems
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 
 ### Data Science & ML
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -130,7 +136,7 @@ A capacitive sensor I developed at IMSAS that identifies liquids by their dielec
 
 ## 🎯 What I Bring to the Table
 
-With an electrical engineering background and hands-on data science experience, I bridge the gap between technical systems and business needs. I don't just build models—I create solutions that people actually use.
+With an electrical engineering background and hands-on data science experience, I bridge the gap between technical systems and business needs. I don't just build models, I create solutions that people actually use.
 
 - **Engineering Mindset:** Systematic problem-solving with attention to system reliability
 - **Data-Driven Insights:** Transform 500K+ record datasets into actionable intelligence
