@@ -72,7 +72,21 @@ I'm an electrical engineer who also has expertise in data science. I build end-t
 [![GitHub](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/a1pasha/fraud-detection-ml-analysis)
 
 ---
+### ⚡ [Dielectrophoretic Capacitive Sensor](https://github.com/a1pasha/dielectrophoretic-capacitive-sensor)
+**Microfluidic sensor for liquid identification | University of Bremen Lab Project**
 
+A capacitive sensor I developed at IMSAS that identifies liquids by their dielectric properties. Using interdigitated electrodes on a silicon chip, the system distinguishes between water, ethanol, and isopropanol with over 90% accuracy—all in under 5 seconds.
+
+- Designed and simulated electrode geometry using COMSOL Multiphysics
+- Fabricated using cleanroom photolithography with gold electrodes
+- Created custom 3D-printed holder with integrated microfluidic channels
+- Achieved >90% accuracy in liquid identification with rapid response
+- **Tech:** COMSOL Multiphysics, Autodesk Inventor, Cleanroom Fabrication, Capacitance Measurement
+
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/a1pasha/dielectrophoretic-capacitive-sensor)
+
+
+---
 
 ### 📋 [Job Application Tracker](https://github.com/a1pasha/job-application-tracker)
 **Offline job application management system with smart file organization**
@@ -89,50 +103,41 @@ I'm an electrical engineer who also has expertise in data science. I build end-t
 
 ## 💻 Technical Skills
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-100%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Cython](https://img.shields.io/badge/Cython-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Fortran](https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
-### Machine Learning & AI
-- **Algorithms:** XGBoost, Gradient Boosting, Random Forest
-- **Techniques:** Time Series Forecasting, SMOTE, Anomaly Detection
-- **Frameworks:** Scikit-learn, TensorFlow (basics)
+### Engineering & Design Tools
+![COMSOL](https://img.shields.io/badge/COMSOL_Multiphysics-0093D0?style=for-the-badge)
+![Autodesk Inventor](https://img.shields.io/badge/Autodesk_Inventor-FF6C00?style=for-the-badge&logo=autodesk&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
-### Data Engineering & Analytics
-- **Processing:** ETL Pipelines, Data Cleaning (500K+ records)
-- **Visualization:** Matplotlib, Seaborn, Plotly
-- **Automation:** Automated Reporting (PDF), Scheduled Analytics
-
-### Business Intelligence
-- **Tools:** Power BI, Power Query, DAX
-- **Capabilities:** Dashboard Development, Data Modeling, KPI Tracking
-
-### Full-Stack Development
-- **Backend:** Python Flask, REST APIs
-- **Frontend:** React
-- **Deployment:** End-to-End Solution Delivery
-
-### Data Science Stack
+### Data Science & ML
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+**Specialties:** Time Series Forecasting • Anomaly Detection • ETL Pipelines • Dashboard Development • REST APIs • Sensor Design • Cleanroom Fabrication • FEA Simulation
 
 ---
 
-🎯 What I Bring to the Table
+## 🎯 What I Bring to the Table
+
 With an electrical engineering background and hands-on data science experience, I bridge the gap between technical systems and business needs. I don't just build models—I create solutions that people actually use.
 
-Engineering Mindset: Systematic problem-solving with attention to system reliability
-Data-Driven Insights: Transform 500K+ record datasets into actionable intelligence
-End-to-End Solutions: From data pipeline to frontend, I handle the full stack
-Real Business Impact: Projects that improve decision-making and operational efficiency
+- **Engineering Mindset:** Systematic problem-solving with attention to system reliability
+- **Data-Driven Insights:** Transform 500K+ record datasets into actionable intelligence
+- **End-to-End Solutions:** From data pipeline to frontend, I handle the full stack
+- **Real Business Impact:** Projects that improve decision-making and operational efficiency
 
+---
 
 📫 Let's Connect
 I'm always interested in projects that combine engineering principles with data science, especially in energy systems, infrastructure, or industrial applications.
